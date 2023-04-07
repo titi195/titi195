@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @titi195
 - 👀 I’m interested in programming and F1 :D
-- 🌱 I’m currently learning Python & web design
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript
 - 💞️ I’m looking to collaborate on varies projects
